@@ -44,7 +44,7 @@ const Partners = () => {
   const partners = [
     {
       name: 'TATA AIA Life Insurance',
-      logo: '/src/photos/aia.png',
+      logo: 'https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/navigations/new-navigation-icon/Logo.svg',
       description: 'Leading insurance provider with comprehensive coverage and innovative solutions for modern families',
       specialties: ['Life Insurance', 'Retirement Planning', 'Investment Plans'],
       gradient: 'from-blue-500 to-indigo-600',
@@ -55,7 +55,7 @@ const Partners = () => {
     },
     {
       name: 'TATA AIG General Insurance',
-      logo: '/src/photos/aig.png',
+      logo: 'https://www.tataaig.com/logo-min.png',
       description: 'Global insurance leader offering innovative general insurance solutions with cutting-edge technology',
       specialties: ['Motor Insurance', 'Travel Insurance', 'Home Insurance'],
       gradient: 'from-emerald-500 to-teal-600',
@@ -66,7 +66,7 @@ const Partners = () => {
     },
     {
       name: 'Star Health Insurance',
-      logo: '/src/photos/star.png',
+      logo: 'https://d28c6jni2fmamz.cloudfront.net/star_health_logo_big_77cff254bd.svg',
       description: 'India\'s leading health insurance specialist with comprehensive medical coverage and wellness programs',
       specialties: ['Health Insurance', 'Critical Illness', 'Senior Citizen Plans'],
       gradient: 'from-purple-500 to-pink-600',
