@@ -57,7 +57,7 @@ const Partners = () => {
       name: 'TATA AIG General Insurance',
       logo: 'https://www.tataaig.com/logo-min.png',
       description: 'Global insurance leader offering innovative general insurance solutions with cutting-edge technology',
-      specialties: ['Motor Insurance', 'Travel Insurance', 'Home Insurance'],
+      specialties: ['Health Insurance','Motor Insurance', 'Travel Insurance', 'Home Insurance'],
       gradient: 'from-emerald-500 to-teal-600',
       bgGradient: 'from-emerald-50 to-teal-50',
       accentColor: 'text-emerald-600',
